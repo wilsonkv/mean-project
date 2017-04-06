@@ -1,2 +1,2 @@
-## MEAN Docker
+## MEAN Project
 sample app in mean stack
