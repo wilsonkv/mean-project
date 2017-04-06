@@ -1,2 +1,2 @@
 ## MEAN Project
-sample app in mean stack
+A sample project using Mongo, Express, Angular and Node
