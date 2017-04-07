@@ -1,4 +1,4 @@
-var mongoose = require('../config/database'); 
+var mongoose = require('../db/database'); 
 
 // create mongoose schema
 const userSchema = new mongoose.Schema({
