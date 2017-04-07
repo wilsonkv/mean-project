@@ -1,12 +1,4 @@
-var mongoose = require('mongoose');
-var database = require('../config/database'); 
-
-// MongoDB URL 
-const dbHost = database.remoteUrl || database.localUrl;
-
-//TODO- verify dbconnection is open
-// Connect to mongodb
-//mongoose.connect(dbHost);
+var mongoose = require('../config/database'); 
 
 // create mongoose schema
 const userSchema = new mongoose.Schema({
